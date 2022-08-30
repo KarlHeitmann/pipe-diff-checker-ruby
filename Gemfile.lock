@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    anbt-sql-formatter (0.1.0)
     diffy (3.4.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  anbt-sql-formatter
   diffy
 
 BUNDLED WITH
